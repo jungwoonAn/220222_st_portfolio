@@ -5,8 +5,6 @@
 
 1. 김명래 https://irisiris99.github.io/portfolio/
 
-
 2. 김민중 https://fe2oz.github.io/kmj-portfolio2/
-
 
 3. 양윤지 https://yuni0105.github.io/fortheculture/
