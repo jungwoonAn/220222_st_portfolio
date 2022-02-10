@@ -11,4 +11,10 @@
 
 4. 김경민 https://gjr100g.github.io/portfolio/
 
-5. 양윤지 https://yuni0105.github.io/fortheculture/
+5. 김효은 https://hyoeunkim126.github.io/HYON_design/
+​
+6. 윤혜주 https://yoonhye-ju.github.io/Portfolio_Special/
+​
+7. 강동우 https://sulhyunryung.github.io/profile/
+
+8. 양윤지 https://yuni0105.github.io/fortheculture/
