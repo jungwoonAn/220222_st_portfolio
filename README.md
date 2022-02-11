@@ -17,4 +17,7 @@
 ​
 7. 강동우 https://sulhyunryung.github.io/profile/
 
-8. 양윤지 https://yuni0105.github.io/fortheculture/
+
+8. 강연재 https://kang206.github.io/poto3/
+
+9. 양윤지 https://yuni0105.github.io/fortheculture/
