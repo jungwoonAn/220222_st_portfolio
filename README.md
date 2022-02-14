@@ -17,6 +17,10 @@
 ​
 7. 강동우 https://sulhyunryung.github.io/profile/
 
+8. 이건종 https://leekeonjong.github.io/LeeKJ/
+
+9. 이성우 https://lsw04521.github.io/portfolio/
+
 10. 권철 https://kwonch.github.io/portfoilo/
 
 11. 강연재 https://kang206.github.io/poto3/
