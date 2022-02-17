@@ -29,10 +29,12 @@
 
 13. 류충환 https://fb2087.github.io/PORTFOLIO/
 
-14. 
+14. 손해룡 https://azenkin3.github.io/folio/
 
-15. 
+15. 강지수 https://jisoo7336.github.io/portfolio3/
 
 16. 강연재 https://kang206.github.io/poto3/
 
-17. 양윤지 https://yuni0105.github.io/fortheculture/
+17. 김선아 https://kimsa1984.github.io/ksa-portfolio/
+
+18. 양윤지 https://yuni0105.github.io/fortheculture/
